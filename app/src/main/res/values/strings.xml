@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="special_symbols">Специальные символы</string>
+    <string name="numbers">Цифры</string>
+    <string name="choose_length">Выберите длину</string>
+    <string name="generate">Сгенерировать пароль</string>
+    <string name="copy">copy</string>
+    <string name="saved">Скопировано в буфер обмена</string>
+</resources>
